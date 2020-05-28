@@ -7,20 +7,22 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Planet__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Planet__c</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
+        <members>Planet__c-Gas Giants</members>
         <members>Planet__c-Planet Layout</members>
         <name>Layout</name>
     </types>
     <types>
-        <members>System Admin</members>
+        <members>Astronomer</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Planet__c.Gas_Giants</members>
+        <members>Planet__c.Terrestrial_Planet</members>
+        <name>RecordType</name>
     </types>
     <version>48.0</version>
 </Package>
